@@ -24251,6 +24251,138 @@ tags: [excalidraw]
 				51.19547526041663,
 				37.74183485243054
 			]
+		},
+		{
+			"id": "1rRpd-tkSefe91vDAUHOk",
+			"type": "freedraw",
+			"x": 89.45828770562287,
+			"y": -192.8779137974093,
+			"width": 3.7363688151042425,
+			"height": 12.207166883680657,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 192511685,
+			"version": 7,
+			"versionNonce": 1427150123,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713298476842,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.615220811631957,
+					-6.3529459635417425
+				],
+				[
+					-3.7363688151042425,
+					-9.592013888888914
+				],
+				[
+					-2.491319444444457,
+					-12.207166883680657
+				],
+				[
+					-2.241956922743043,
+					-12.207166883680657
+				],
+				[
+					-2.241956922743043,
+					-12.207166883680657
+				]
+			],
+			"pressures": [
+				0.4224664568901062,
+				0.4842491149902344,
+				0.45470088720321655,
+				0.09963370859622955,
+				0.025152627378702164,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-2.241956922743043,
+				-12.207166883680657
+			]
+		},
+		{
+			"id": "aC3X-wF6GTvqiC4h1GadC",
+			"type": "freedraw",
+			"x": 33.28146207628254,
+			"y": -119.76037364983995,
+			"width": 4.484049479166629,
+			"height": 6.975504557291515,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "#a5d8ff",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1002815077,
+			"version": 7,
+			"versionNonce": 1653547915,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713298477299,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.4883626302082575,
+					-4.982638888888914
+				],
+				[
+					-3.6122639973957575,
+					-6.352945963541515
+				],
+				[
+					-1.6195339626735858,
+					-6.975504557291515
+				],
+				[
+					0.8717854817708712,
+					-6.602240668402601
+				],
+				[
+					0.8717854817708712,
+					-6.602240668402601
+				]
+			],
+			"pressures": [
+				0.3032967150211334,
+				0.41782665252685547,
+				0.32967033982276917,
+				0.14041514694690704,
+				0.025152627378702164,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				0.8717854817708712,
+				-6.602240668402601
+			]
 		}
 	],
 	"appState": {
