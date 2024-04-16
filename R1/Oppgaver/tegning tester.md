@@ -1154,8 +1154,8 @@ tags: [excalidraw]
 		},
 		{
 			"type": "freedraw",
-			"version": 176,
-			"versionNonce": 1870552590,
+			"version": 251,
+			"versionNonce": 585330229,
 			"isDeleted": false,
 			"id": "eu62CIJaHdkpmhnScPD9Q",
 			"fillStyle": "solid",
@@ -1164,8 +1164,8 @@ tags: [excalidraw]
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 97.007455562492,
-			"y": 114.44090920910898,
+			"x": 118.11856667360308,
+			"y": 111.10757587577561,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 98.21775521025131,
@@ -1175,7 +1175,7 @@ tags: [excalidraw]
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1713296818946,
+			"updated": 1713297373352,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -5966,10 +5966,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 310.9982679714709,
-		"scrollY": 415.37360093302294,
+		"scrollX": 296.5084637490007,
+		"scrollY": 317.4036723094738,
 		"zoom": {
-			"value": 1.05
+			"value": 0.9
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
