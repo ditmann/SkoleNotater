@@ -11625,12 +11625,108 @@ tags: [excalidraw]
 				-6.222076416015625,
 				32.174102783203125
 			]
+		},
+		{
+			"id": "aH0qDfSdY5CY5jOCmioS7",
+			"type": "freedraw",
+			"x": 67.6163734844215,
+			"y": -201.98731103006799,
+			"width": 6.39007568359375,
+			"height": 2.63458251953125,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1090900421,
+			"version": 14,
+			"versionNonce": 446980517,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1713430069890,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-2.46649169921875,
+					0
+				],
+				[
+					-3.811279296875,
+					0.223876953125
+				],
+				[
+					-5.15679931640625,
+					0.56036376953125
+				],
+				[
+					-5.99774169921875,
+					1.2332763671875
+				],
+				[
+					-6.39007568359375,
+					1.73773193359375
+				],
+				[
+					-6.27789306640625,
+					1.84942626953125
+				],
+				[
+					-5.38104248046875,
+					1.84942626953125
+				],
+				[
+					-4.09197998046875,
+					1.4012451171875
+				],
+				[
+					-2.522216796875,
+					0.3359375
+				],
+				[
+					-1.233154296875,
+					-0.78515625
+				],
+				[
+					-1.233154296875,
+					-0.78515625
+				]
+			],
+			"pressures": [
+				0.10451771318912506,
+				0.2586080729961395,
+				0.3680097758769989,
+				0.4136752486228943,
+				0.4236874580383301,
+				0.4146520495414734,
+				0.3904762268066406,
+				0.3054945170879364,
+				0.17045177519321442,
+				0.1010989099740982,
+				0.014407815411686897,
+				0
+			],
+			"simulatePressure": false,
+			"lastCommittedPoint": [
+				-1.233154296875,
+				-0.78515625
+			]
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1971c2",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
