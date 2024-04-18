@@ -14244,6 +14244,94 @@ tags: [excalidraw]
 			]
 		},
 		{
+			"id": "9Z1BSlgKXyP5FlOVuD2vs",
+			"type": "line",
+			"x": -473.44042915265567,
+			"y": 24.703942545642008,
+			"width": 5.136455708138612,
+			"height": 369.41633692304396,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 332061509,
+			"version": 284,
+			"versionNonce": 1759151717,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713430345688,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.136455708138612,
+					-369.41633692304396
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "5cEHC3Drf4LXApCprgk--",
+			"type": "line",
+			"x": -477.222109991267,
+			"y": 24.703881086313345,
+			"width": 547.944132249921,
+			"height": 7.393710882945811,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 48656837,
+			"version": 120,
+			"versionNonce": 1754888907,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1713430348797,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					547.944132249921,
+					-7.393710882945811
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
 			"type": "freedraw",
 			"version": 36,
 			"versionNonce": 734401803,
@@ -23578,10 +23666,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 525.4769187519066,
-		"scrollY": 635.9237352854391,
+		"scrollX": 618.876228741993,
+		"scrollY": 673.7658626718588,
 		"zoom": {
-			"value": 1
+			"value": 0.9930983238338539
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
