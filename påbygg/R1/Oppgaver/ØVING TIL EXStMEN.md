@@ -11188,8 +11188,8 @@ tags: [excalidraw]
 		{
 			"id": "dGT55VwNIopeT9xK8yZs0",
 			"type": "arrow",
-			"x": -369.1917625019066,
-			"y": -323.30490746561486,
+			"x": -369.86476665229725,
+			"y": -326.10736718241174,
 			"width": 355.03907775878906,
 			"height": 3.47540283203125,
 			"angle": 0,
@@ -11206,11 +11206,11 @@ tags: [excalidraw]
 				"type": 2
 			},
 			"seed": 1040262187,
-			"version": 311,
-			"versionNonce": 490043499,
+			"version": 428,
+			"versionNonce": 648528907,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1713430235337,
+			"updated": 1713430270141,
 			"link": null,
 			"locked": false,
 			"points": [
